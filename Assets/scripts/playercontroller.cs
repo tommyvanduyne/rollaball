@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+//what up homie?
 public class playercontroller : MonoBehaviour {
     public float speed;
     private Rigidbody rb;
